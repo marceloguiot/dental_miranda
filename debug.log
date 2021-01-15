@@ -1,0 +1,4 @@
+[0623/122904.263:ERROR:file_io.cc(134)] WriteFile: Se está cerrando la canalización. (0xE8)
+[1218/084853.852:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1226/090134.166:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0108/084134.484:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
